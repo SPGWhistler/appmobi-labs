@@ -818,8 +818,6 @@ article.sticky .featured-post {
 .entry-summary p,
 .comment-content p,
 .mu_register p {
-	margin: 0 0 24px;
-	margin: 0 0 1.714285714rem;
 	line-height: 1.714285714;
 }
 .entry-content ol,
@@ -1356,7 +1354,7 @@ img.template-front-page {
 	box-shadow: none;
 }
 .template-front-page .site-content {
-	margin-top: 46px;
+	margin-top: 75px;
 }
 .template-front-page .site-content article {
 	border: 0;
