@@ -1344,7 +1344,7 @@ a.comment-edit-link:hover {
 body.template-front-page {
 	background-repeat: no-repeat;
 	background-image:url('images/top_background.png');
-	background-attachment:fixed;
+	background-attachment:scroll;
 	background-position:center top;
 	text-align: center;
 }
