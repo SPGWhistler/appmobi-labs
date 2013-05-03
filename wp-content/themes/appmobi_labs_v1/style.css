@@ -598,6 +598,7 @@ div.header-image {
 }
 .site-title {
 	float: right;
+	line-height: 3;
 }
 
 /* Navigation Menu */
