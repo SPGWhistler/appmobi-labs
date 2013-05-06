@@ -39,7 +39,7 @@
 				<?php wp_nav_menu( array( 'theme_location' => 'primary', 'menu_class' => 'nav-menu' ) ); ?>
 			</nav><!-- #site-navigation -->
 
-			<div class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></div>
+			<div class="site-title"><a href="<?php echo esc_url( home_url( 'http://appmobi.com/' ) ); ?>" title="<?php echo esc_attr( 'appMobi.com' ); ?>">appMobi.com</a></div>
 
 			<?php $header_image = get_header_image();
 			if ( ! empty( $header_image ) ) : ?>
