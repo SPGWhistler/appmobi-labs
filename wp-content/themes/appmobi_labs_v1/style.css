@@ -638,9 +638,6 @@ section[role="banner"] {
 
 /* Sidebar */
 .widget-area .widget {
-	-webkit-hyphens: auto;
-	-moz-hyphens: auto;
-	hyphens: auto;
 	margin-bottom: 48px;
 	margin-bottom: 3.428571429rem;
 	word-wrap: break-word;
@@ -976,9 +973,6 @@ img.aligncenter {
 	padding-bottom: 24px;
 	padding-bottom: 1.714285714rem;
 	word-wrap: break-word;
-	-webkit-hyphens: auto;
-	-moz-hyphens: auto;
-	hyphens: auto;
 }
 .page-links {
 	clear: both;
