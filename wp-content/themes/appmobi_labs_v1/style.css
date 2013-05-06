@@ -1390,6 +1390,11 @@ img.template-front-page {
 	margin: 0.571428571rem 1.714285714rem 0.571428571rem 0;
 }
 
+/* contact form 7 styles */
+#wpcf7-f32-p2-o1 {
+	display: none;
+}
+
 
 /* =Widgets
 -------------------------------------------------------------- */
