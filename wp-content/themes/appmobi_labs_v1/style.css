@@ -503,8 +503,10 @@ body.custom-font-enabled {
 	font-family: 'eurostileregular', "Open Sans", Helvetica, Arial, sans-serif;
 }
 a {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
 	outline: none;
-	color: #2c8aa2;
+	color: #2d98b0;
 	text-decoration: none;
 }
 a:hover {
@@ -608,8 +610,8 @@ div.header-image {
 .main-navigation li {
 	margin-top: 24px;
 	margin-top: 1.714285714rem;
-	font-size: 12px;
-	font-size: 0.857142857rem;
+	font-size: 14px;
+	font-family: Helvetica, Arial, sans-serif;
 	line-height: 1.42857143;
 }
 .main-navigation a {
@@ -682,8 +684,7 @@ section[role="banner"] {
 }
 footer[role="contentinfo"] {
 	clear: both;
-	font-size: 12px;
-	font-size: 0.857142857rem;
+	font-size: 18px;
 	line-height: 2;
 	max-width: 960px;
 	max-width: 68.571428571rem;
@@ -693,7 +694,9 @@ footer[role="contentinfo"] {
 	margin-right: auto;
 }
 footer[role="contentinfo"] a {
-	color: #686868;
+	color: #999;
+	font-family: 'eurostileregular', Helvetica, Arial, sans-serif;
+	font-size: 18px;
 }
 footer[role="contentinfo"] a:hover {
 	color: #21759b;
@@ -1510,10 +1513,8 @@ img#wpstats {
 		text-decoration: none;
 	}
 	.main-navigation li a {
-		border-bottom: 0;
-		color: #6a6a6a;
+		color: #999;
 		line-height: 3.692307692;
-		text-transform: uppercase;
 		white-space: nowrap;
 	}
 	.main-navigation li a:hover {
