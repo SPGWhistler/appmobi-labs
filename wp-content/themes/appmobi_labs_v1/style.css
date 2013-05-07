@@ -1390,6 +1390,7 @@ img.template-front-page {
 /* contact form 7 styles */
 #wpcf7-f32-p2-o1 {
 	display: none;
+	margin-top: 40px;
 }
 .wpcf7-text {
 	font-size: 18px;
@@ -1494,8 +1495,6 @@ img#wpstats {
 	}
 	.site {
 		margin: 0 auto;
-		max-width: 960px;
-		max-width: 68.571428571rem;
 		overflow: hidden;
 	}
 	.site-content {
